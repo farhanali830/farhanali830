@@ -42,20 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
----
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAliJaffery&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAliJaffery&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with Me  
-🌐 [**GitHub Profile**](https://github.com/FarhanAliJaffery)  
-💬 “Code. Create. Grow.”
+🌐 [**GitHub Profile**](https://github.com/farhanali830)  
+
 
 ---
 
