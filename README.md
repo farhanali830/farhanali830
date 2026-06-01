@@ -1,115 +1,58 @@
-👋 Hi, I'm Farhan Ali Jaffery
+# 👋 Hi, I'm Farhan Ali Jaffery
+
 🎓 BS Computer Science (6th Semester)
-💻 Aspiring Software Engineer | Versatile Full-Stack Web Developer
-🚀 Passionate about building scalable, real-world web applications across the entire development stack
+💻 Aspiring Software Engineer | Full-Stack Web Developer
+🚀 Passionate about building scalable and user-focused web applications
 
-🧠 Professional Summary
-Versatile Full-Stack Web Developer with hands-on experience in modern web technologies through internships at XDIMENSION Solutions and DevelopersHub Corporation. Currently in my 6th semester of BSCS, I build scalable applications across the MERN Stack and Laravel, with proven ability to contribute at every level of development.
+## 🧠 About Me
 
-What I bring to your team:
+I'm a Full-Stack Developer with internship experience at XDIMENSION Solutions and DevelopersHub Corporation. I enjoy developing modern web applications using MERN Stack and Laravel, with a strong focus on clean code, performance, and user experience.
 
-🎨 Frontend Expertise: React.js, Next.js, responsive design, UI/UX implementation
+### 💼 What I Do
 
-⚙️ Backend Strength: Node.js, Express, Laravel, API development, database architecture
+* 🎨 Frontend Development: React.js, Next.js, Responsive UI/UX
+* ⚙️ Backend Development: Node.js, Express.js, Laravel, REST APIs
+* 🗄️ Databases: MongoDB, MySQL
+* 🔧 Tools: Git, GitHub, Agile Development
 
-🔧 Full-Stack Vision: End-to-end application design, real-time features, authentication systems
+## 🚀 Featured Projects
 
-📊 Data Skills: Recent certifications in Feature Engineering & Data Cleaning
+### 💬 Chat Application
 
-I'm open to frontend, backend, or full-stack remote roles – adaptable to where your team needs me most!
+Real-time messaging application built with WebSockets and modern full-stack architecture.
 
-🌍 Remote Software Engineering roles
-💼 Freelance opportunities
-🤝 Collaboration on innovative projects
-
-💼 Experience
-🔹 Web Developer Intern
-XDIMENSION SOLUTIONS
-📅 [Month Year] – [Month Year]
-
-Worked on real-world web applications in a professional development environment
-
-Improved UI/UX across multiple client projects, enhancing user engagement
-
-Integrated frontend components with backend services for seamless functionality
-
-Collaborated with senior developers using Git workflow and agile methodologies
-
-🔹 Front-End Developer Intern
-DevelopersHub Corporation©
-📅 Jul 2025 – Sep 2025
-
-Built responsive user interfaces using React.js and modern CSS frameworks
-
-Implemented component-based architecture reusable across 5+ application pages
-
-Optimized frontend performance, reducing load times through efficient coding practices
-
-Collaborated with design and backend teams to deliver cohesive user experiences
-
-📜 Certifications
-🏅 Feature Engineering – Kaggle (Feb 2026)
-🏅 Data Cleaning – Kaggle (Feb 2026)
-🏅 Web Development – ICT Trainings Institute
-
-🚀 Featured Projects
-💬 Chat Application
 🔗 https://github.com/farhanali830/Chat-App
 
-Real-time messaging system demonstrating full-stack capabilities:
+### 🛒 Smart E-Commerce Platform
 
-Frontend: Responsive chat interface with modern UI design
+Full-stack e-commerce solution with authentication, product management, and order processing.
 
-Backend: Real-time message handling, user presence with WebSockets
-
-Full-Stack: Complete client-server architecture with scalable design patterns
-
-Database: Efficient data modeling for message storage and retrieval
-
-🛒 Smart E-Commerce Platform
 🔗 https://github.com/farhanali830/smart-ecommerce-platform
 
-Comprehensive e-commerce solution built for production readiness:
+## 📜 Certifications
 
-Frontend: Product browsing, shopping cart, responsive product pages
+🏅 Feature Engineering – Kaggle
+🏅 Data Cleaning – Kaggle
+🏅 Web Development – ICT Trainings Institute
 
-Backend: User authentication, product management, secure order processing
+## 🛠️ Tech Stack
 
-Database: MySQL schema design with relational data modeling
+**Languages:** JavaScript, TypeScript, PHP, Python, Java, C++
+**Frontend:** React.js, Next.js, HTML5, CSS3
+**Backend:** Node.js, Express.js, Laravel
+**Databases:** MongoDB, MySQL
+**Tools:** Git, GitHub
 
-API: RESTful endpoints for seamless frontend-backend communication
+## 🎯 Career Goal
 
-🛠️ Technical Skills
-💻 Programming Languages
-C, C++, Java, Python, PHP, JavaScript, TypeScript
+To become a versatile Software Engineer capable of delivering high-quality solutions across frontend, backend, and full-stack development.
 
-🌐 Frontend Development
-HTML5, CSS3, React.js, Next.js, Responsive Design, UI/UX Implementation
+## 📫 Connect With Me
 
-🔧 Backend Development
-Node.js, Express.js, Laravel, RESTful APIs, Authentication Systems
-
-🗄️ Databases
-MySQL, MongoDB, Database Design, Data Modeling
-
-⚙️ Tools & Version Control
-Git, GitHub, Agile Methodologies, Team Collaboration
-
-🎯 Development Approach
-
-const farhanApproach = {
-  frontend: "User-first design with responsive, performant interfaces",
-  backend: "Scalable architecture with clean API design",
-  database: "Efficient data modeling for real-world applications",
-  fullStack: "Bridging the gap between beautiful UI and robust data"
-};
-📈 Career Goal
-To become a highly skilled Software Engineer capable of contributing at every level – from pixel-perfect frontends to scalable backend systems. I aim to build impactful applications that solve real-world problems while continuously expanding my technical versatility.
-
-📫 Connect With Me
-📧 Email: farhanaliishah321@gmail.com
-💼 LinkedIn: www.linkedin.com/in/farhan-ali-jaffery-523233301
+📧 Email: [farhanaliishah321@gmail.com](mailto:farhanaliishah321@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/farhan-ali-jaffery-523233301](http://www.linkedin.com/in/farhan-ali-jaffery-523233301)
 🌐 GitHub: https://github.com/farhanali830
+
 
 🛠️ Tech Stack
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> </p>
