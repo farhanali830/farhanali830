@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farhan Ali Jaffery
 
-🎓 BS Computer Science (6th Semester)
+🎓 BS Computer Science (7th Semester)
 💻 Aspiring Software Engineer | Full-Stack Web Developer
 🚀 Passionate about building scalable and user-focused web applications
 
